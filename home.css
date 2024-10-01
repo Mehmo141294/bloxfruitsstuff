@@ -1,0 +1,49 @@
+body{
+    background-image:url("./Images/BladeBlox.jpeg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+}
+h1{
+    text-shadow:0 0 3px lime, 0 0 5px lime;
+    font-size:80px;
+    text-align: center;
+}
+table{
+    background-color:white;
+    width:70%;
+
+}
+
+table,td{
+    border:2px solid grey;
+    border-collapse:collapse;
+}
+td{
+    padding:20px;
+}
+
+#box{
+    width:60%;
+}
+#set{
+    width:20%;
+}
+
+#lb{
+    width:20%;
+}
+h3{
+    box-shadow:3px solid lime;
+}
+ol{
+    color: aquamarine;
+}
+#a{
+    color: coral;
+}
+#katana{
+    text-shadow:0 0 3px lime, 0 0 5px lime;
+    font-size:80px;
+    text-align: center;
+}
